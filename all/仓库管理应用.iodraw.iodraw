@@ -28,8 +28,14 @@
             <mxPoint x="320" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yx0yukksYxSpGt3rt4qi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx0yukksYxSpGt3rt4qi-7" target="yx0yukksYxSpGt3rt4qi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yx0yukksYxSpGt3rt4qi-7" value="提交审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx0yukksYxSpGt3rt4qi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx0yukksYxSpGt3rt4qi-9" target="yx0yukksYxSpGt3rt4qi-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yx0yukksYxSpGt3rt4qi-9" value="审批员审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
@@ -40,7 +46,7 @@
         <mxCell id="yx0yukksYxSpGt3rt4qi-11" value="入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yx0yukksYxSpGt3rt4qi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.491;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx0yukksYxSpGt3rt4qi-7" target="yx0yukksYxSpGt3rt4qi-9">
+        <mxCell id="yx0yukksYxSpGt3rt4qi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.502;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx0yukksYxSpGt3rt4qi-10" target="yx0yukksYxSpGt3rt4qi-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
