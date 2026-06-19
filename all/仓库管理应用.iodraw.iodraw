@@ -46,11 +46,14 @@
         <mxCell id="yx0yukksYxSpGt3rt4qi-10" value="购买货物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yx0yukksYxSpGt3rt4qi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx0yukksYxSpGt3rt4qi-11" target="yx0yukksYxSpGt3rt4qi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yx0yukksYxSpGt3rt4qi-11" value="入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yx0yukksYxSpGt3rt4qi-17" value="提交审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
