@@ -79,8 +79,8 @@
         <mxCell id="yx0yukksYxSpGt3rt4qi-26" value="解冻出货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yx0yukksYxSpGt3rt4qi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx0yukksYxSpGt3rt4qi-19" target="yx0yukksYxSpGt3rt4qi-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yx0yukksYxSpGt3rt4qi-29" value="解冻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
